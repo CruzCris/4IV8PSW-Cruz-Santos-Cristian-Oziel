@@ -78,8 +78,8 @@ y los vamos a hacer girar, alternar y transformar */
     background-color: red;
     color: white;
     text-align: center;
-    height: 200px;
-    display: flex;
+    height: 300px;
+    /*display: flex;*/
     justify-content: center;
     align-items: center;
     animation-name: animacion_test;
